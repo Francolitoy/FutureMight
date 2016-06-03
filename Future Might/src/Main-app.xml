@@ -18,7 +18,7 @@
 	<id>com.FutureMight</id>
 
 	<!-- Used as the filename for the application. Required. -->
-	<filename>Jugar</filename>
+	<filename>Future Might</filename>
 
 	<!-- The name that is displayed in the AIR application installer. 
 	May have multiple values for each language. See samples or xsd schema file. Optional. -->
