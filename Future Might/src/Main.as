@@ -34,6 +34,7 @@ package
 
 		private function update(evento:Event):void
 		{
+			//GitHub OP :B
 			var handler:Handler = new Handler();
 			play.Pantalla.Audio = handler.handlerSonido(play.Pantalla.PantallaSonido,game.settings.Mutear,play.Pantalla.Audio,play.MiStage);
 			play.Pantalla.CargarPantalla = handler.cargarPantalla(game,play);
